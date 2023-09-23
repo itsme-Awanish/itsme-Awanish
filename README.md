@@ -3,9 +3,9 @@
 <p>🌱 I’m currently learning MLop and trying to get hands-on with certain Python packages like Zenml</p>
 <p>💬 If you want to suggest something like a project or repository so that I can learn it quickly, feel free to message me</p>
 <p>⚡ Fun fact: real code is something that humans can also understand, not just machine</p>
-#### --------------------------------------------------------------------------------------------------------------------
+**--------------------------------------------------------------------------------------------------------------------**
 
-<p>🤔 last but not least, I’m looking for job openings also, I want some professional ground to get industry-level experience</p>
+<p>🤔 last but not least, I’m looking for job openings. Also, I want some professional ground to get industry-level experience</p>
 <!--
 **itsme-Awanish/itsme-Awanish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
